@@ -1,0 +1,46 @@
+/* CSS Document */
+
+BODY
+{ 
+font: 12px Verdana, Geneva, sans-serif;
+}
+
+
+
+UL.navigation
+{
+list-style-type: none;
+display:inline;
+}
+/*-- MAIN CONTAINER STYLES -------------------------*/
+
+/*-- NAVIGATION STYLES -------------------------*/
+LI.navigation
+{
+display: inline;
+margin:2px;
+cursor:pointer;
+font:12px Verdana, Geneva, sans-serif;
+background:#003366;
+border-radius: 5px;
+color:#FFFFFF;
+padding: 5px;
+}
+
+LI.navigation:hover
+{
+color:#FF0000;
+}
+
+LI.footNavigation
+{
+  display:inline;
+  color:#FFF;
+  margin:2px;
+  font-size:10px;
+  cursor:pointer;
+}
+/*-- NAVIGATION STYLES -------------------------*/
+
+
+
